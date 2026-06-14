@@ -11,3 +11,7 @@ A React-based text utility application.
 ## Tech Stack
 - React.js
 - Bootstrap
+
+## Preview
+
+![TextUtils Screenshot](./screenshotshomepage.png)
