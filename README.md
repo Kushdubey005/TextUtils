@@ -14,4 +14,4 @@ A React-based text utility application.
 
 ## Preview
 
-![TextUtils Screenshot](./screenshotshomepage.png)
+![TextUtils Screenshot](./screenshotshomepage.png.png)
