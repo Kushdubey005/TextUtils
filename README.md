@@ -9,8 +9,13 @@ A React-based text utility application.
 - Dark Mode
 
 ## Tech Stack
+
 - React.js
-- Bootstrap
+- JavaScript (ES6+)
+- Bootstrap 5
+- HTML5
+- CSS3
+- Git & GitHub
 
 ## Preview
 
